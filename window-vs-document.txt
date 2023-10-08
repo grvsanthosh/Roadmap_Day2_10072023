@@ -9,6 +9,3 @@ Window in JavaScript:
 1. It is the root element for all objects and functions.
 2. It is an object of the browser.
 3. we can access Document object properties inside the window.
-
-
-
